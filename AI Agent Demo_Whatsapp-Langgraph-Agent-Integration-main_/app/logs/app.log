@@ -1,0 +1,544 @@
+2026-03-08 16:45:46,773 - app - INFO - WebHook service starting up
+2026-03-08 16:46:48,026 - app - INFO - Health check requested
+2026-03-08 16:50:55,542 - app - INFO - Health check requested
+2026-03-08 16:51:02,437 - app - INFO - Health check requested
+2026-03-08 17:17:40,904 - app - INFO - WebHook service starting up
+2026-03-08 18:01:07,009 - app - INFO - Received webhook request - ID: 20260308180107004457
+2026-03-08 18:01:07,026 - app - INFO - Request 20260308180107004457 - Message skipped (does not match criteria)
+2026-03-08 18:01:07,077 - app - INFO - Received webhook request - ID: 20260308180107077354
+2026-03-08 18:01:07,078 - app - INFO - Request 20260308180107077354 - Message skipped (does not match criteria)
+2026-03-08 18:01:07,124 - app - INFO - Received webhook request - ID: 20260308180107124303
+2026-03-08 18:01:07,127 - app - INFO - Request 20260308180107124303 - Message skipped (does not match criteria)
+2026-03-08 18:02:03,811 - app - INFO - Received webhook request - ID: 20260308180203811627
+2026-03-08 18:02:03,814 - app - INFO - Request 20260308180203811627 - Message skipped (does not match criteria)
+2026-03-08 18:02:08,264 - app - INFO - Received webhook request - ID: 20260308180208263934
+2026-03-08 18:02:08,264 - app - INFO - Request 20260308180208263934 - Message skipped (does not match criteria)
+2026-03-08 18:02:08,576 - app - INFO - Received webhook request - ID: 20260308180208576877
+2026-03-08 18:02:08,578 - app - INFO - Request 20260308180208576877 - Message skipped (does not match criteria)
+2026-03-08 18:24:16,030 - app - INFO - Received webhook request - ID: 20260308182416028290
+2026-03-08 18:24:16,077 - app - INFO - Request 20260308182416028290 - Message skipped (does not match criteria)
+2026-03-08 18:24:16,159 - app - INFO - Received webhook request - ID: 20260308182416158687
+2026-03-08 18:24:16,160 - app - INFO - Request 20260308182416158687 - Message skipped (does not match criteria)
+2026-03-08 18:24:16,175 - app - INFO - Received webhook request - ID: 20260308182416174943
+2026-03-08 18:24:16,175 - app - INFO - Request 20260308182416174943 - Message skipped (does not match criteria)
+2026-03-08 18:24:30,037 - app - INFO - Received webhook request - ID: 20260308182430037298
+2026-03-08 18:24:30,038 - app - INFO - Request 20260308182430037298 - Message skipped (does not match criteria)
+2026-03-08 18:25:14,878 - app - INFO - Received webhook request - ID: 20260308182514875454
+2026-03-08 18:25:14,883 - app - INFO - Request 20260308182514875454 - Message skipped (does not match criteria)
+2026-03-08 18:25:15,327 - app - INFO - Received webhook request - ID: 20260308182515327060
+2026-03-08 18:25:15,330 - app - INFO - Request 20260308182515327060 - Message skipped (does not match criteria)
+2026-03-08 18:25:15,338 - app - INFO - Received webhook request - ID: 20260308182515337783
+2026-03-08 18:25:15,338 - app - INFO - Request 20260308182515337783 - Message skipped (does not match criteria)
+2026-03-08 18:25:15,343 - app - INFO - Received webhook request - ID: 20260308182515343006
+2026-03-08 18:25:15,343 - app - INFO - Request 20260308182515343006 - Message skipped (does not match criteria)
+2026-03-08 18:25:15,384 - app - INFO - Received webhook request - ID: 20260308182515384169
+2026-03-08 18:25:15,384 - app - INFO - Request 20260308182515384169 - Message skipped (does not match criteria)
+2026-03-08 18:25:15,453 - app - INFO - Received webhook request - ID: 20260308182515453640
+2026-03-08 18:25:15,455 - app - INFO - Request 20260308182515453640 - Message skipped (does not match criteria)
+2026-03-08 18:25:15,511 - app - INFO - Received webhook request - ID: 20260308182515510137
+2026-03-08 18:25:15,515 - app - INFO - Request 20260308182515510137 - Message skipped (does not match criteria)
+2026-03-08 18:25:19,476 - app - INFO - Received webhook request - ID: 20260308182519476353
+2026-03-08 18:25:19,486 - app - INFO - Request 20260308182519476353 - Message skipped (does not match criteria)
+2026-03-08 18:25:19,661 - app - INFO - Received webhook request - ID: 20260308182519661158
+2026-03-08 18:25:19,672 - app - INFO - Request 20260308182519661158 - Message skipped (does not match criteria)
+2026-03-08 18:25:23,185 - app - INFO - Received webhook request - ID: 20260308182523185559
+2026-03-08 18:25:23,191 - app - ERROR - Request 20260308182523185559 - Error parsing message: 'isUser'
+2026-03-08 18:25:23,220 - app - ERROR - Request 20260308182523185559 - Unexpected error: 422: Error parsing message: 'isUser'
+2026-03-08 18:25:32,234 - app - INFO - Received webhook request - ID: 20260308182532233587
+2026-03-08 18:25:32,240 - app - INFO - Request 20260308182532233587 - Message skipped (does not match criteria)
+2026-03-08 18:26:00,913 - app - INFO - Received webhook request - ID: 20260308182600912895
+2026-03-08 18:26:01,078 - app - INFO - Request 20260308182600912895 - Message skipped (does not match criteria)
+2026-03-08 18:26:01,948 - app - INFO - Received webhook request - ID: 20260308182601948303
+2026-03-08 18:26:02,034 - app - INFO - Request 20260308182601948303 - Message skipped (does not match criteria)
+2026-03-08 18:26:04,707 - app - INFO - Received webhook request - ID: 20260308182604707370
+2026-03-08 18:26:04,716 - app - INFO - Request 20260308182604707370 - Message skipped (does not match criteria)
+2026-03-08 18:26:11,776 - app - INFO - Received webhook request - ID: 20260308182611776545
+2026-03-08 18:26:11,784 - app - INFO - Request 20260308182611776545 - Message skipped (does not match criteria)
+2026-03-08 18:26:18,504 - app - INFO - Received webhook request - ID: 20260308182618489051
+2026-03-08 18:26:18,510 - app - INFO - Request 20260308182618489051 - Message skipped (does not match criteria)
+2026-03-08 18:27:26,900 - app - INFO - Received webhook request - ID: 20260308182726898699
+2026-03-08 18:27:26,919 - app - ERROR - Request 20260308182726898699 - Error parsing message: 'isUser'
+2026-03-08 18:27:26,922 - app - ERROR - Request 20260308182726898699 - Unexpected error: 422: Error parsing message: 'isUser'
+2026-03-08 18:27:31,683 - app - INFO - Received webhook request - ID: 20260308182731682110
+2026-03-08 18:27:31,700 - app - INFO - Request 20260308182731682110 - Message skipped (does not match criteria)
+2026-03-08 18:28:05,174 - app - INFO - Received webhook request - ID: 20260308182805170001
+2026-03-08 18:28:05,178 - app - INFO - Request 20260308182805170001 - Message skipped (does not match criteria)
+2026-03-08 18:29:31,543 - app - INFO - Received webhook request - ID: 20260308182931539465
+2026-03-08 18:29:31,565 - app - INFO - Request 20260308182931539465 - Message skipped (does not match criteria)
+2026-03-08 18:30:14,854 - app - INFO - WebHook service starting up
+2026-03-08 18:31:21,076 - app - INFO - Received webhook request - ID: 20260308183120999897
+2026-03-08 18:31:21,248 - app - INFO - Request 20260308183120999897 - Message skipped (does not match criteria)
+2026-03-08 18:31:21,412 - app - INFO - Received webhook request - ID: 20260308183121395361
+2026-03-08 18:31:21,448 - app - INFO - Request 20260308183121395361 - Message skipped (does not match criteria)
+2026-03-08 18:31:21,560 - app - INFO - Received webhook request - ID: 20260308183121560110
+2026-03-08 18:31:21,630 - app - INFO - Request 20260308183121560110 - Message skipped (does not match criteria)
+2026-03-08 18:33:22,033 - app - INFO - Received webhook request - ID: 20260308183322029842
+2026-03-08 18:33:22,052 - app - INFO - Request 20260308183322029842 - Message skipped (does not match criteria)
+2026-03-08 18:35:56,583 - app - INFO - Received webhook request - ID: 20260308183556581486
+2026-03-08 18:35:56,599 - app - INFO - Request 20260308183556581486 - Message skipped (does not match criteria)
+2026-03-08 18:39:00,375 - app - INFO - Received webhook request - ID: 20260308183900374513
+2026-03-08 18:39:00,397 - app - INFO - Request 20260308183900374513 - Message skipped (does not match criteria)
+2026-03-08 18:39:00,532 - app - INFO - Received webhook request - ID: 20260308183900531081
+2026-03-08 18:39:00,552 - app - INFO - Request 20260308183900531081 - Message skipped (does not match criteria)
+2026-03-08 18:39:00,784 - app - INFO - Received webhook request - ID: 20260308183900783019
+2026-03-08 18:39:00,797 - app - INFO - Request 20260308183900783019 - Message skipped (does not match criteria)
+2026-03-08 18:39:00,857 - app - INFO - Received webhook request - ID: 20260308183900855635
+2026-03-08 18:39:00,857 - app - INFO - Request 20260308183900855635 - Message skipped (does not match criteria)
+2026-03-08 18:39:58,974 - app - INFO - Received webhook request - ID: 20260308183958974156
+2026-03-08 18:39:58,976 - app - INFO - Request 20260308183958974156 - Message skipped (does not match criteria)
+2026-03-08 18:40:10,852 - app - INFO - Received webhook request - ID: 20260308184010852601
+2026-03-08 18:40:10,852 - app - INFO - Request 20260308184010852601 - Message skipped (does not match criteria)
+2026-03-08 18:40:39,036 - app - INFO - Received webhook request - ID: 20260308184039033691
+2026-03-08 18:40:39,062 - app - INFO - Request 20260308184039033691 - Message skipped (does not match criteria)
+2026-03-08 18:40:39,177 - app - INFO - Received webhook request - ID: 20260308184039177415
+2026-03-08 18:40:39,180 - app - INFO - Request 20260308184039177415 - Message skipped (does not match criteria)
+2026-03-08 18:40:57,599 - app - INFO - Received webhook request - ID: 20260308184057598132
+2026-03-08 18:40:57,608 - app - INFO - Request 20260308184057598132 - Message skipped (does not match criteria)
+2026-03-08 18:40:57,640 - app - INFO - Received webhook request - ID: 20260308184057638441
+2026-03-08 18:40:57,642 - app - INFO - Request 20260308184057638441 - Message skipped (does not match criteria)
+2026-03-08 18:40:57,755 - app - INFO - Received webhook request - ID: 20260308184057754316
+2026-03-08 18:40:57,774 - app - INFO - Request 20260308184057754316 - Message skipped (does not match criteria)
+2026-03-08 18:40:57,808 - app - INFO - Received webhook request - ID: 20260308184057808107
+2026-03-08 18:40:57,830 - app - INFO - Request 20260308184057808107 - Message skipped (does not match criteria)
+2026-03-08 18:40:58,121 - app - INFO - Received webhook request - ID: 20260308184058121158
+2026-03-08 18:40:58,143 - app - INFO - Request 20260308184058121158 - Message skipped (does not match criteria)
+2026-03-08 18:40:58,365 - app - INFO - Received webhook request - ID: 20260308184058365305
+2026-03-08 18:40:58,368 - app - INFO - Request 20260308184058365305 - Message skipped (does not match criteria)
+2026-03-08 18:40:58,808 - app - INFO - Received webhook request - ID: 20260308184058808446
+2026-03-08 18:40:58,809 - app - INFO - Request 20260308184058808446 - Message skipped (does not match criteria)
+2026-03-08 18:41:10,193 - app - INFO - Received webhook request - ID: 20260308184110193318
+2026-03-08 18:41:10,232 - app - INFO - Request 20260308184110193318 - Message skipped (does not match criteria)
+2026-03-08 18:43:33,364 - app - INFO - Received webhook request - ID: 20260308184333363069
+2026-03-08 18:43:33,376 - app - INFO - Request 20260308184333363069 - Message skipped (does not match criteria)
+2026-03-08 18:43:34,572 - app - INFO - Received webhook request - ID: 20260308184334572473
+2026-03-08 18:43:34,724 - app - INFO - Request 20260308184334572473 - Message skipped (does not match criteria)
+2026-03-08 18:43:34,805 - app - INFO - Received webhook request - ID: 20260308184334805082
+2026-03-08 18:43:34,806 - app - ERROR - Request 20260308184334805082 - Error parsing message: 'session'
+2026-03-08 18:43:34,808 - app - ERROR - Request 20260308184334805082 - Unexpected error: 422: Error parsing message: 'session'
+2026-03-08 18:44:09,542 - app - INFO - Received webhook request - ID: 20260308184409541538
+2026-03-08 18:44:09,552 - app - ERROR - Request 20260308184409541538 - Error parsing message: 'sender'
+2026-03-08 18:44:09,553 - app - ERROR - Request 20260308184409541538 - Unexpected error: 422: Error parsing message: 'sender'
+2026-03-08 18:44:35,835 - app - INFO - Received webhook request - ID: 20260308184435833332
+2026-03-08 18:44:35,847 - app - INFO - Request 20260308184435833332 - Message skipped (does not match criteria)
+2026-03-08 18:44:35,865 - app - INFO - Received webhook request - ID: 20260308184435864668
+2026-03-08 18:44:35,866 - app - INFO - Request 20260308184435864668 - Message skipped (does not match criteria)
+2026-03-08 18:44:35,891 - app - INFO - Received webhook request - ID: 20260308184435891575
+2026-03-08 18:44:35,892 - app - INFO - Request 20260308184435891575 - Message skipped (does not match criteria)
+2026-03-08 18:44:40,294 - app - INFO - Received webhook request - ID: 20260308184440294335
+2026-03-08 18:44:40,295 - app - ERROR - Request 20260308184440294335 - Error parsing message: 'isUser'
+2026-03-08 18:44:40,296 - app - ERROR - Request 20260308184440294335 - Unexpected error: 422: Error parsing message: 'isUser'
+2026-03-08 18:45:16,139 - app - INFO - Received webhook request - ID: 20260308184516138703
+2026-03-08 18:45:16,148 - app - ERROR - Request 20260308184516138703 - Error parsing message: 'isUser'
+2026-03-08 18:45:16,148 - app - ERROR - Request 20260308184516138703 - Unexpected error: 422: Error parsing message: 'isUser'
+2026-03-08 18:46:38,719 - app - INFO - Received webhook request - ID: 20260308184638717644
+2026-03-08 18:46:39,782 - app - INFO - Processing aggregated messages for 911234567890@c.us: hello
+2026-03-08 18:47:11,844 - app.src.wppconnect.api - ERROR - Error sending message: 401 Client Error: Unauthorized for url: http://localhost:21465/api/NERDWHATS_AMERICA/send-message
+2026-03-08 18:47:11,849 - app - ERROR - Error processing aggregated messages: 401 Client Error: Unauthorized for url: http://localhost:21465/api/NERDWHATS_AMERICA/send-message
+2026-03-08 18:51:45,090 - app - INFO - Received webhook request - ID: 20260308185145080507
+2026-03-08 18:51:45,213 - app - INFO - Request 20260308185145080507 - Message skipped (does not match criteria)
+2026-03-08 18:51:46,796 - app - INFO - Received webhook request - ID: 20260308185146795835
+2026-03-08 18:51:46,813 - app - INFO - Request 20260308185146795835 - Message skipped (does not match criteria)
+2026-03-08 18:51:49,103 - app - INFO - Received webhook request - ID: 20260308185149103523
+2026-03-08 18:51:49,116 - app - INFO - Request 20260308185149103523 - Message skipped (does not match criteria)
+2026-03-08 18:52:00,826 - app - INFO - Received webhook request - ID: 20260308185200777799
+2026-03-08 18:52:00,877 - app - INFO - Request 20260308185200777799 - Message skipped (does not match criteria)
+2026-03-08 18:52:01,915 - app - INFO - Received webhook request - ID: 20260308185201914117
+2026-03-08 18:52:01,924 - app - INFO - Request 20260308185201914117 - Message skipped (does not match criteria)
+2026-03-08 18:52:05,504 - app - INFO - Received webhook request - ID: 20260308185205504252
+2026-03-08 18:52:05,511 - app - INFO - Request 20260308185205504252 - Message skipped (does not match criteria)
+2026-03-08 18:52:38,821 - app - INFO - Received webhook request - ID: 20260308185238821005
+2026-03-08 18:52:38,826 - app - INFO - Request 20260308185238821005 - Message skipped (does not match criteria)
+2026-03-08 18:52:39,184 - app - INFO - Received webhook request - ID: 20260308185239183121
+2026-03-08 18:52:39,188 - app - INFO - Request 20260308185239183121 - Message skipped (does not match criteria)
+2026-03-08 18:53:02,355 - app - INFO - Received webhook request - ID: 20260308185302355251
+2026-03-08 18:53:02,372 - app - INFO - Request 20260308185302355251 - Message skipped (does not match criteria)
+2026-03-08 18:53:02,544 - app - INFO - Received webhook request - ID: 20260308185302544420
+2026-03-08 18:53:02,589 - app - INFO - Request 20260308185302544420 - Message skipped (does not match criteria)
+2026-03-08 18:53:24,802 - app - INFO - Received webhook request - ID: 20260308185324801383
+2026-03-08 18:53:25,848 - app - INFO - Processing aggregated messages for 911234567890@c.us: hi I am feeling anxious
+2026-03-08 18:53:56,117 - app.src.wppconnect.api - ERROR - Error sending message: 401 Client Error: Unauthorized for url: http://localhost:21465/api/NERDWHATS_AMERICA/send-message
+2026-03-08 18:53:56,118 - app - ERROR - Error processing aggregated messages: 401 Client Error: Unauthorized for url: http://localhost:21465/api/NERDWHATS_AMERICA/send-message
+2026-03-08 18:54:24,293 - app - INFO - Received webhook request - ID: 20260308185424293075
+2026-03-08 18:54:24,294 - app - INFO - Request 20260308185424293075 - Message skipped (does not match criteria)
+2026-03-08 18:54:25,904 - app - INFO - Received webhook request - ID: 20260308185425904753
+2026-03-08 18:54:25,905 - app - INFO - Request 20260308185425904753 - Message skipped (does not match criteria)
+2026-03-08 18:54:27,080 - app - INFO - Received webhook request - ID: 20260308185427080782
+2026-03-08 18:54:27,136 - app - INFO - Request 20260308185427080782 - Message skipped (does not match criteria)
+2026-03-08 18:54:31,299 - app - INFO - Received webhook request - ID: 20260308185431299405
+2026-03-08 18:54:31,302 - app - INFO - Request 20260308185431299405 - Message skipped (does not match criteria)
+2026-03-08 18:54:50,171 - app - INFO - Received webhook request - ID: 20260308185450170465
+2026-03-08 18:54:50,175 - app - INFO - Request 20260308185450170465 - Message skipped (does not match criteria)
+2026-03-08 18:54:53,711 - app - INFO - Received webhook request - ID: 20260308185453711828
+2026-03-08 18:54:53,746 - app - INFO - Request 20260308185453711828 - Message skipped (does not match criteria)
+2026-03-08 18:54:54,236 - app - INFO - Received webhook request - ID: 20260308185454236854
+2026-03-08 18:54:54,253 - app - INFO - Request 20260308185454236854 - Message skipped (does not match criteria)
+2026-03-08 18:54:57,739 - app - INFO - Received webhook request - ID: 20260308185457739008
+2026-03-08 18:54:57,753 - app - INFO - Request 20260308185457739008 - Message skipped (does not match criteria)
+2026-03-08 18:55:20,537 - app - INFO - Health check requested
+2026-03-08 18:55:39,631 - app - INFO - Received webhook request - ID: 20260308185539630290
+2026-03-08 18:55:39,646 - app - INFO - Request 20260308185539630290 - Message skipped (does not match criteria)
+2026-03-08 18:57:47,342 - app - INFO - Received webhook request - ID: 20260308185747337637
+2026-03-08 18:57:47,362 - app - INFO - Request 20260308185747337637 - Message skipped (does not match criteria)
+2026-03-08 18:58:13,200 - app - INFO - Received webhook request - ID: 20260308185813199488
+2026-03-08 18:58:13,236 - app - INFO - Request 20260308185813199488 - Message skipped (does not match criteria)
+2026-03-08 18:58:13,322 - app - INFO - Received webhook request - ID: 20260308185813321956
+2026-03-08 18:58:13,341 - app - INFO - Request 20260308185813321956 - Message skipped (does not match criteria)
+2026-03-08 18:58:13,419 - app - INFO - Received webhook request - ID: 20260308185813418939
+2026-03-08 18:58:13,449 - app - INFO - Request 20260308185813418939 - Message skipped (does not match criteria)
+2026-03-08 18:58:22,572 - app - INFO - Received webhook request - ID: 20260308185822572051
+2026-03-08 18:58:22,576 - app - INFO - Request 20260308185822572051 - Message skipped (does not match criteria)
+2026-03-08 18:58:23,110 - app - INFO - Received webhook request - ID: 20260308185823109934
+2026-03-08 18:58:23,211 - app - ERROR - Request 20260308185823109934 - Error parsing message: 'isUser'
+2026-03-08 18:58:23,227 - app - ERROR - Request 20260308185823109934 - Unexpected error: 422: Error parsing message: 'isUser'
+2026-03-08 18:58:24,136 - app - INFO - Received webhook request - ID: 20260308185824136583
+2026-03-08 18:58:24,148 - app - INFO - Request 20260308185824136583 - Message skipped (does not match criteria)
+2026-03-08 18:58:24,231 - app - INFO - Received webhook request - ID: 20260308185824231102
+2026-03-08 18:58:24,235 - app - INFO - Request 20260308185824231102 - Message skipped (does not match criteria)
+2026-03-08 18:58:24,242 - app - INFO - Received webhook request - ID: 20260308185824242749
+2026-03-08 18:58:24,250 - app - INFO - Request 20260308185824242749 - Message skipped (does not match criteria)
+2026-03-08 18:58:32,113 - app - INFO - WebHook service shutting down
+2026-03-08 18:58:32,984 - app - INFO - WebHook service shutting down
+2026-03-08 18:58:33,250 - app - INFO - WebHook service shutting down
+2026-03-08 19:11:32,027 - app - INFO - WebHook service starting up
+2026-03-08 19:12:11,114 - app - INFO - WebHook service starting up
+2026-03-08 19:12:11,619 - app - INFO - WebHook service starting up
+2026-03-08 19:12:11,691 - app - INFO - Received webhook request - ID: 20260308191211691260
+2026-03-08 19:12:11,694 - app - ERROR - Request 20260308191211691260 - Error parsing message: 'isUser'
+2026-03-08 19:12:11,699 - app - ERROR - Request 20260308191211691260 - Unexpected error: 422: Error parsing message: 'isUser'
+2026-03-08 19:12:11,743 - app - INFO - Received webhook request - ID: 20260308191211743450
+2026-03-08 19:12:11,761 - app - INFO - Request 20260308191211743450 - Message skipped
+2026-03-08 19:12:11,808 - app - INFO - Received webhook request - ID: 20260308191211808814
+2026-03-08 19:12:11,827 - app - INFO - WebHook service starting up
+2026-03-08 19:12:11,841 - app - INFO - Received webhook request - ID: 20260308191211841307
+2026-03-08 19:12:11,869 - app - INFO - Request 20260308191211841307 - Message skipped
+2026-03-08 19:12:11,919 - app - INFO - Received webhook request - ID: 20260308191211919218
+2026-03-08 19:12:11,928 - app - INFO - Request 20260308191211919218 - Message skipped
+2026-03-08 19:12:11,957 - app - INFO - Received webhook request - ID: 20260308191211957869
+2026-03-08 19:12:11,968 - app - INFO - Request 20260308191211957869 - Message skipped
+2026-03-08 19:12:11,985 - app - INFO - Received webhook request - ID: 20260308191211984432
+2026-03-08 19:12:11,989 - app - INFO - Request 20260308191211984432 - Message skipped
+2026-03-08 19:12:12,009 - app - INFO - Received webhook request - ID: 20260308191212009495
+2026-03-08 19:12:12,018 - app - INFO - Request 20260308191212009495 - Message skipped
+2026-03-08 19:12:12,033 - app - INFO - Received webhook request - ID: 20260308191212033656
+2026-03-08 19:12:12,037 - app - ERROR - Request 20260308191212033656 - Error parsing message: 'isUser'
+2026-03-08 19:12:12,040 - app - ERROR - Request 20260308191212033656 - Unexpected error: 422: Error parsing message: 'isUser'
+2026-03-08 19:12:12,074 - app - INFO - Received webhook request - ID: 20260308191212074459
+2026-03-08 19:12:12,086 - app - INFO - Request 20260308191212074459 - Message skipped
+2026-03-08 19:12:12,106 - app - INFO - Received webhook request - ID: 20260308191212105953
+2026-03-08 19:12:12,109 - app - INFO - Request 20260308191212105953 - Message skipped
+2026-03-08 19:12:12,120 - app - INFO - Received webhook request - ID: 20260308191212120013
+2026-03-08 19:12:12,126 - app - ERROR - Request 20260308191212120013 - Error parsing message: 'isUser'
+2026-03-08 19:12:12,128 - app - ERROR - Request 20260308191212120013 - Unexpected error: 422: Error parsing message: 'isUser'
+2026-03-08 19:12:12,161 - app - INFO - Received webhook request - ID: 20260308191212161005
+2026-03-08 19:12:12,169 - app - INFO - Request 20260308191212161005 - Message skipped
+2026-03-08 19:12:12,186 - app - INFO - Received webhook request - ID: 20260308191212186707
+2026-03-08 19:12:12,189 - app - INFO - Request 20260308191212186707 - Message skipped
+2026-03-08 19:12:12,208 - app - INFO - Received webhook request - ID: 20260308191212208202
+2026-03-08 19:12:12,216 - app - INFO - Request 20260308191212208202 - Message skipped
+2026-03-08 19:12:12,233 - app - INFO - Received webhook request - ID: 20260308191212233112
+2026-03-08 19:12:12,251 - app - INFO - Request 20260308191212233112 - Message skipped
+2026-03-08 19:12:12,272 - app - INFO - Received webhook request - ID: 20260308191212272465
+2026-03-08 19:12:12,282 - app - INFO - Request 20260308191212272465 - Message skipped
+2026-03-08 19:12:12,386 - app - INFO - Received webhook request - ID: 20260308191212385374
+2026-03-08 19:12:12,422 - app - INFO - Request 20260308191212385374 - Message skipped
+2026-03-08 19:12:12,500 - app - INFO - Received webhook request - ID: 20260308191212500025
+2026-03-08 19:12:12,502 - app - INFO - WebHook service starting up
+2026-03-08 19:12:12,525 - app - INFO - Request 20260308191212500025 - Message skipped
+2026-03-08 19:12:12,532 - app - INFO - WebHook service starting up
+2026-03-08 19:12:12,594 - app - INFO - Received webhook request - ID: 20260308191212591424
+2026-03-08 19:12:12,609 - app - INFO - Request 20260308191212591424 - Message skipped
+2026-03-08 19:12:12,616 - app - INFO - WebHook service starting up
+2026-03-08 19:12:13,331 - app - INFO - Processing aggregated messages for 911234567890@c.us: hi I am feeling anxious
+2026-03-08 19:12:13,901 - app - INFO - WebHook service starting up
+2026-03-08 19:12:15,965 - app - INFO - WebHook service starting up
+2026-03-08 19:12:37,075 - app - INFO - WebHook service starting up
+2026-03-08 19:12:43,950 - app.src.wppconnect.api - ERROR - Error sending message: 401 Client Error: Unauthorized for url: http://localhost:21465/api/NERDWHATS_AMERICA/send-message
+2026-03-08 19:12:43,954 - app - ERROR - Error processing aggregated messages: 401 Client Error: Unauthorized for url: http://localhost:21465/api/NERDWHATS_AMERICA/send-message
+2026-03-08 19:13:38,944 - app - INFO - Received webhook request - ID: 20260308191338943239
+2026-03-08 19:13:39,966 - app - INFO - Processing aggregated messages for 911234567890@c.us: hi I am feeling anxious
+2026-03-08 19:14:10,351 - app.src.wppconnect.api - ERROR - Error sending message: 401 Client Error: Unauthorized for url: http://localhost:21465/api/NERDWHATS_AMERICA/send-message
+2026-03-08 19:14:10,352 - app - ERROR - Error processing aggregated messages: 401 Client Error: Unauthorized for url: http://localhost:21465/api/NERDWHATS_AMERICA/send-message
+2026-03-08 19:15:35,569 - app - INFO - Received webhook request - ID: 20260308191535568969
+2026-03-08 19:15:35,575 - app - INFO - Request 20260308191535568969 - Message skipped
+2026-03-08 19:16:04,203 - app - INFO - WebHook service shutting down
+2026-03-08 19:16:04,203 - app - INFO - WebHook service shutting down
+2026-03-08 19:16:04,339 - app - INFO - WebHook service shutting down
+2026-03-08 19:16:04,338 - app - INFO - WebHook service shutting down
+2026-03-08 19:16:04,356 - app - INFO - WebHook service shutting down
+2026-03-08 19:16:04,403 - app - INFO - WebHook service shutting down
+2026-03-08 19:16:04,420 - app - INFO - WebHook service shutting down
+2026-03-08 19:16:04,457 - app - INFO - WebHook service shutting down
+2026-03-08 19:16:04,484 - app - INFO - WebHook service shutting down
+2026-03-08 19:16:04,486 - app - INFO - WebHook service shutting down
+2026-03-08 19:25:59,456 - app - INFO - WebHook service starting up
+2026-03-08 19:25:59,722 - app - INFO - WebHook service starting up
+2026-03-08 19:26:23,525 - app - INFO - WebHook service starting up
+2026-03-08 19:26:23,687 - app - INFO - WebHook service starting up
+2026-03-08 19:26:24,660 - app - INFO - WebHook service starting up
+2026-03-08 19:26:24,785 - app - INFO - Received webhook request - ID: 20260308192624784962
+2026-03-08 19:26:24,802 - app - INFO - WebHook service starting up
+2026-03-08 19:26:24,803 - app - INFO - Request 20260308192624784962 - Message skipped
+2026-03-08 19:26:24,908 - app - INFO - Received webhook request - ID: 20260308192624908068
+2026-03-08 19:26:24,960 - app - INFO - Request 20260308192624908068 - Message skipped
+2026-03-08 19:26:25,009 - app - INFO - Received webhook request - ID: 20260308192625009281
+2026-03-08 19:26:25,028 - app - INFO - Received webhook request - ID: 20260308192625027936
+2026-03-08 19:26:25,073 - app - INFO - Received webhook request - ID: 20260308192625071484
+2026-03-08 19:26:25,087 - app - INFO - Request 20260308192625071484 - Message skipped
+2026-03-08 19:26:25,282 - app - INFO - WebHook service starting up
+2026-03-08 19:26:25,304 - app - INFO - WebHook service starting up
+2026-03-08 19:26:26,110 - app - INFO - Processing aggregated messages for 911234567890@c.us: hi I am feeling anxious hi I am feeling anxious
+2026-03-08 19:26:28,339 - app - INFO - WebHook service starting up
+2026-03-08 19:26:29,720 - app - INFO - WebHook service starting up
+2026-03-08 19:26:56,163 - app - ERROR - AGENT ERROR: couldn't get a connection after 30.00 sec
+Traceback (most recent call last):
+  File "C:\Users\DELL\Downloads\Whatsapp-Langgraph-Agent-Integration-main\Whatsapp-Langgraph-Agent-Integration-main\app\agent.py", line 77, in main
+    ) as pool, pool.connection() as conn:
+               ~~~~~~~~~~~~~~~^^
+  File "C:\Users\DELL\AppData\Local\Python\pythoncore-3.14-64\Lib\contextlib.py", line 214, in __aenter__
+    return await anext(self.gen)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\psycopg_pool\pool_async.py", line 216, in connection
+    conn = await self.getconn(timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\psycopg_pool\pool_async.py", line 251, in getconn
+    raise PoolTimeout(
+        f"couldn't get a connection after {timeout:.2f} sec"
+    ) from None
+psycopg_pool.PoolTimeout: couldn't get a connection after 30.00 sec
+2026-03-08 19:26:56,863 - app.src.wppconnect.api - ERROR - Error sending message: 401 Client Error: Unauthorized for url: http://localhost:21465/api/NERDWHATS_AMERICA/send-message
+2026-03-08 19:26:56,874 - app - ERROR - Error processing aggregated messages: 401 Client Error: Unauthorized for url: http://localhost:21465/api/NERDWHATS_AMERICA/send-message
+2026-03-08 19:27:40,300 - app - INFO - Received webhook request - ID: 20260308192740299554
+2026-03-08 19:27:41,318 - app - INFO - Processing aggregated messages for 911234567890@c.us: hi I am feeling anxious
+2026-03-08 19:28:01,611 - app - INFO - Received webhook request - ID: 20260308192801611633
+2026-03-08 19:28:01,618 - app - INFO - Request 20260308192801611633 - Message skipped
+2026-03-08 19:28:11,332 - app - ERROR - AGENT ERROR: couldn't get a connection after 30.00 sec
+Traceback (most recent call last):
+  File "C:\Users\DELL\Downloads\Whatsapp-Langgraph-Agent-Integration-main\Whatsapp-Langgraph-Agent-Integration-main\app\agent.py", line 77, in main
+    ) as pool, pool.connection() as conn:
+               ~~~~~~~~~~~~~~~^^
+  File "C:\Users\DELL\AppData\Local\Python\pythoncore-3.14-64\Lib\contextlib.py", line 214, in __aenter__
+    return await anext(self.gen)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\psycopg_pool\pool_async.py", line 216, in connection
+    conn = await self.getconn(timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\psycopg_pool\pool_async.py", line 251, in getconn
+    raise PoolTimeout(
+        f"couldn't get a connection after {timeout:.2f} sec"
+    ) from None
+psycopg_pool.PoolTimeout: couldn't get a connection after 30.00 sec
+2026-03-08 19:28:12,003 - app.src.wppconnect.api - ERROR - Error sending message: 401 Client Error: Unauthorized for url: http://localhost:21465/api/NERDWHATS_AMERICA/send-message
+2026-03-08 19:28:12,008 - app - ERROR - Error processing aggregated messages: 401 Client Error: Unauthorized for url: http://localhost:21465/api/NERDWHATS_AMERICA/send-message
+2026-03-08 19:28:44,515 - app - INFO - Received webhook request - ID: 20260308192844515671
+2026-03-08 19:28:45,552 - app - INFO - Processing aggregated messages for 911234567890@c.us: hi I am feeling anxious
+2026-03-08 19:29:15,587 - app - ERROR - AGENT ERROR: couldn't get a connection after 30.00 sec
+Traceback (most recent call last):
+  File "C:\Users\DELL\Downloads\Whatsapp-Langgraph-Agent-Integration-main\Whatsapp-Langgraph-Agent-Integration-main\app\agent.py", line 77, in main
+    ) as pool, pool.connection() as conn:
+               ~~~~~~~~~~~~~~~^^
+  File "C:\Users\DELL\AppData\Local\Python\pythoncore-3.14-64\Lib\contextlib.py", line 214, in __aenter__
+    return await anext(self.gen)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\psycopg_pool\pool_async.py", line 216, in connection
+    conn = await self.getconn(timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\psycopg_pool\pool_async.py", line 251, in getconn
+    raise PoolTimeout(
+        f"couldn't get a connection after {timeout:.2f} sec"
+    ) from None
+psycopg_pool.PoolTimeout: couldn't get a connection after 30.00 sec
+2026-03-08 19:29:16,676 - app.src.wppconnect.api - ERROR - Error sending message: 401 Client Error: Unauthorized for url: http://localhost:21465/api/NERDWHATS_AMERICA/send-message
+2026-03-08 19:29:16,705 - app - ERROR - Error processing aggregated messages: 401 Client Error: Unauthorized for url: http://localhost:21465/api/NERDWHATS_AMERICA/send-message
+2026-03-08 19:32:59,479 - app - INFO - Received webhook request - ID: 20260308193259475620
+2026-03-08 19:32:59,487 - app - INFO - Request 20260308193259475620 - Message skipped
+2026-03-08 19:33:45,664 - app - INFO - Received webhook request - ID: 20260308193345662793
+2026-03-08 19:33:45,665 - app - INFO - Request 20260308193345662793 - Message skipped
+2026-03-08 19:33:47,985 - app - INFO - Received webhook request - ID: 20260308193347985066
+2026-03-08 19:33:47,988 - app - INFO - Request 20260308193347985066 - Message skipped
+2026-03-08 19:34:37,551 - app - INFO - Received webhook request - ID: 20260308193437550896
+2026-03-08 19:34:37,552 - app - INFO - Request 20260308193437550896 - Message skipped
+2026-03-08 19:34:39,133 - app - INFO - Received webhook request - ID: 20260308193439133501
+2026-03-08 19:34:39,135 - app - INFO - Request 20260308193439133501 - Message skipped
+2026-03-08 19:34:39,558 - app - INFO - Received webhook request - ID: 20260308193439558723
+2026-03-08 19:34:39,559 - app - INFO - Request 20260308193439558723 - Message skipped
+2026-03-08 19:34:42,569 - app - INFO - Received webhook request - ID: 20260308193442569055
+2026-03-08 19:34:42,572 - app - INFO - Request 20260308193442569055 - Message skipped
+2026-03-08 19:34:50,522 - app - INFO - Received webhook request - ID: 20260308193450521450
+2026-03-08 19:34:50,522 - app - INFO - Request 20260308193450521450 - Message skipped
+2026-03-08 19:34:54,101 - app - INFO - Received webhook request - ID: 20260308193454100540
+2026-03-08 19:34:54,101 - app - INFO - Request 20260308193454100540 - Message skipped
+2026-03-08 19:34:59,191 - app - INFO - Received webhook request - ID: 20260308193459163041
+2026-03-08 19:34:59,192 - app - INFO - Request 20260308193459163041 - Message skipped
+2026-03-08 19:35:09,694 - app - INFO - Received webhook request - ID: 20260308193509694372
+2026-03-08 19:35:09,695 - app - ERROR - Request 20260308193509694372 - Error parsing message: 'isUser'
+2026-03-08 19:35:09,706 - app - ERROR - Request 20260308193509694372 - Unexpected error: 422: Error parsing message: 'isUser'
+2026-03-08 19:35:09,920 - app - INFO - Received webhook request - ID: 20260308193509920536
+2026-03-08 19:35:09,921 - app - INFO - Request 20260308193509920536 - Message skipped
+2026-03-08 19:37:43,706 - app - INFO - Received webhook request - ID: 20260308193743702727
+2026-03-08 19:37:43,713 - app - INFO - Request 20260308193743702727 - Message skipped
+2026-03-08 19:37:56,034 - app - INFO - Received webhook request - ID: 20260308193756033968
+2026-03-08 19:37:56,034 - app - INFO - Request 20260308193756033968 - Message skipped
+2026-03-08 19:40:50,398 - app - INFO - Received webhook request - ID: 20260308194050398507
+2026-03-08 19:40:50,402 - app - INFO - Request 20260308194050398507 - Message skipped
+2026-03-08 19:42:04,672 - app - INFO - Received webhook request - ID: 20260308194204672281
+2026-03-08 19:42:04,675 - app - INFO - Request 20260308194204672281 - Message skipped
+2026-03-08 19:42:09,224 - app - INFO - Received webhook request - ID: 20260308194209222780
+2026-03-08 19:42:09,236 - app - INFO - Request 20260308194209222780 - Message skipped
+2026-03-08 19:42:11,258 - app - INFO - Received webhook request - ID: 20260308194211257893
+2026-03-08 19:42:11,259 - app - INFO - Request 20260308194211257893 - Message skipped
+2026-03-08 19:42:11,279 - app - INFO - Received webhook request - ID: 20260308194211278728
+2026-03-08 19:42:11,279 - app - INFO - Request 20260308194211278728 - Message skipped
+2026-03-08 19:42:14,675 - app - INFO - Received webhook request - ID: 20260308194214675415
+2026-03-08 19:42:14,677 - app - INFO - Request 20260308194214675415 - Message skipped
+2026-03-08 19:42:15,449 - app - INFO - Received webhook request - ID: 20260308194215448675
+2026-03-08 19:42:15,449 - app - INFO - Request 20260308194215448675 - Message skipped
+2026-03-08 19:42:15,778 - app - INFO - Received webhook request - ID: 20260308194215778094
+2026-03-08 19:42:15,780 - app - ERROR - Request 20260308194215778094 - Error parsing message: 'isUser'
+2026-03-08 19:42:15,783 - app - ERROR - Request 20260308194215778094 - Unexpected error: 422: Error parsing message: 'isUser'
+2026-03-08 19:42:15,788 - app - INFO - Received webhook request - ID: 20260308194215788705
+2026-03-08 19:42:15,792 - app - INFO - Request 20260308194215788705 - Message skipped
+2026-03-08 19:42:16,288 - app - INFO - Received webhook request - ID: 20260308194216288235
+2026-03-08 19:42:16,291 - app - INFO - Request 20260308194216288235 - Message skipped
+2026-03-08 19:42:21,987 - app - INFO - Received webhook request - ID: 20260308194221987894
+2026-03-08 19:42:21,988 - app - INFO - Request 20260308194221987894 - Message skipped
+2026-03-08 19:42:28,464 - app - INFO - Received webhook request - ID: 20260308194228464742
+2026-03-08 19:42:28,465 - app - INFO - Request 20260308194228464742 - Message skipped
+2026-03-08 19:42:33,663 - app - INFO - Received webhook request - ID: 20260308194233662831
+2026-03-08 19:42:33,663 - app - INFO - Request 20260308194233662831 - Message skipped
+2026-03-08 19:42:37,510 - app - INFO - Received webhook request - ID: 20260308194237510495
+2026-03-08 19:42:37,513 - app - ERROR - Request 20260308194237510495 - Error parsing message: 'isUser'
+2026-03-08 19:42:37,513 - app - ERROR - Request 20260308194237510495 - Unexpected error: 422: Error parsing message: 'isUser'
+2026-03-08 19:42:37,532 - app - INFO - Received webhook request - ID: 20260308194237532798
+2026-03-08 19:42:37,533 - app - INFO - Request 20260308194237532798 - Message skipped
+2026-03-08 19:42:52,893 - app - INFO - Received webhook request - ID: 20260308194252893305
+2026-03-08 19:42:52,893 - app - INFO - Request 20260308194252893305 - Message skipped
+2026-03-08 19:42:54,367 - app - INFO - Received webhook request - ID: 20260308194254367800
+2026-03-08 19:42:54,368 - app - INFO - Request 20260308194254367800 - Message skipped
+2026-03-08 19:42:54,433 - app - INFO - Received webhook request - ID: 20260308194254432983
+2026-03-08 19:42:54,434 - app - INFO - Request 20260308194254432983 - Message skipped
+2026-03-08 19:42:56,509 - app - INFO - Received webhook request - ID: 20260308194256509783
+2026-03-08 19:42:56,510 - app - INFO - Request 20260308194256509783 - Message skipped
+2026-03-08 19:42:59,131 - app - INFO - Received webhook request - ID: 20260308194259131841
+2026-03-08 19:42:59,132 - app - INFO - Request 20260308194259131841 - Message skipped
+2026-03-08 19:43:07,093 - app - INFO - Received webhook request - ID: 20260308194307093852
+2026-03-08 19:43:07,094 - app - INFO - Request 20260308194307093852 - Message skipped
+2026-03-08 19:43:07,668 - app - INFO - Received webhook request - ID: 20260308194307626907
+2026-03-08 19:43:07,669 - app - INFO - Request 20260308194307626907 - Message skipped
+2026-03-08 19:43:09,526 - app - INFO - Received webhook request - ID: 20260308194309526614
+2026-03-08 19:43:09,527 - app - INFO - Request 20260308194309526614 - Message skipped
+2026-03-08 19:43:09,605 - app - INFO - Received webhook request - ID: 20260308194309605287
+2026-03-08 19:43:09,605 - app - INFO - Request 20260308194309605287 - Message skipped
+2026-03-08 19:43:10,749 - app - INFO - Received webhook request - ID: 20260308194310749154
+2026-03-08 19:43:10,750 - app - ERROR - Request 20260308194310749154 - Error parsing message: 'isUser'
+2026-03-08 19:43:10,750 - app - ERROR - Request 20260308194310749154 - Unexpected error: 422: Error parsing message: 'isUser'
+2026-03-08 19:43:10,796 - app - INFO - Received webhook request - ID: 20260308194310796766
+2026-03-08 19:43:10,797 - app - INFO - Request 20260308194310796766 - Message skipped
+2026-03-08 19:43:21,250 - app - INFO - Received webhook request - ID: 20260308194321249944
+2026-03-08 19:43:21,278 - app - INFO - Request 20260308194321249944 - Message skipped
+2026-03-08 19:43:25,721 - app - INFO - Received webhook request - ID: 20260308194325720940
+2026-03-08 19:43:25,722 - app - ERROR - Request 20260308194325720940 - Error parsing message: 'isUser'
+2026-03-08 19:43:25,722 - app - ERROR - Request 20260308194325720940 - Unexpected error: 422: Error parsing message: 'isUser'
+2026-03-08 19:43:25,748 - app - INFO - Received webhook request - ID: 20260308194325748038
+2026-03-08 19:43:25,749 - app - INFO - Request 20260308194325748038 - Message skipped
+2026-03-08 19:43:49,317 - app - INFO - Received webhook request - ID: 20260308194349316969
+2026-03-08 19:43:49,319 - app - INFO - Request 20260308194349316969 - Message skipped
+2026-03-08 19:45:04,691 - app - INFO - Received webhook request - ID: 20260308194504691286
+2026-03-08 19:45:04,694 - app - INFO - Request 20260308194504691286 - Message skipped
+2026-03-08 19:45:12,693 - app - INFO - Received webhook request - ID: 20260308194512692716
+2026-03-08 19:45:12,693 - app - ERROR - Request 20260308194512692716 - Error parsing message: 'isUser'
+2026-03-08 19:45:12,693 - app - ERROR - Request 20260308194512692716 - Unexpected error: 422: Error parsing message: 'isUser'
+2026-03-08 19:45:12,726 - app - INFO - Received webhook request - ID: 20260308194512726445
+2026-03-08 19:45:12,727 - app - INFO - Request 20260308194512726445 - Message skipped
+2026-03-08 19:45:27,846 - app - INFO - Received webhook request - ID: 20260308194527846112
+2026-03-08 19:45:27,847 - app - INFO - Request 20260308194527846112 - Message skipped
+2026-03-08 19:45:27,920 - app - INFO - Received webhook request - ID: 20260308194527920606
+2026-03-08 19:45:27,921 - app - INFO - Request 20260308194527920606 - Message skipped
+2026-03-08 19:45:34,889 - app - INFO - Received webhook request - ID: 20260308194534889863
+2026-03-08 19:45:34,890 - app - INFO - Request 20260308194534889863 - Message skipped
+2026-03-08 19:45:42,005 - app - INFO - Received webhook request - ID: 20260308194542005183
+2026-03-08 19:45:42,005 - app - ERROR - Request 20260308194542005183 - Error parsing message: 'isUser'
+2026-03-08 19:45:42,006 - app - ERROR - Request 20260308194542005183 - Unexpected error: 422: Error parsing message: 'isUser'
+2026-03-08 19:45:42,026 - app - INFO - Received webhook request - ID: 20260308194542025854
+2026-03-08 19:45:42,026 - app - INFO - Request 20260308194542025854 - Message skipped
+2026-03-08 19:46:08,421 - app - INFO - Received webhook request - ID: 20260308194608421474
+2026-03-08 19:46:08,422 - app - INFO - Request 20260308194608421474 - Message skipped
+2026-03-08 19:46:12,437 - app - INFO - Received webhook request - ID: 20260308194612437092
+2026-03-08 19:46:12,437 - app - INFO - Request 20260308194612437092 - Message skipped
+2026-03-08 19:46:12,815 - app - INFO - Received webhook request - ID: 20260308194612815686
+2026-03-08 19:46:12,816 - app - INFO - Request 20260308194612815686 - Message skipped
+2026-03-08 19:46:23,628 - app - INFO - Received webhook request - ID: 20260308194623628056
+2026-03-08 19:46:23,628 - app - INFO - Request 20260308194623628056 - Message skipped
+2026-03-08 19:46:28,433 - app - INFO - Received webhook request - ID: 20260308194628433565
+2026-03-08 19:46:28,434 - app - INFO - Request 20260308194628433565 - Message skipped
+2026-03-08 19:46:34,840 - app - INFO - Received webhook request - ID: 20260308194634798594
+2026-03-08 19:46:34,842 - app - INFO - Request 20260308194634798594 - Message skipped
+2026-03-08 19:46:37,550 - app - INFO - Received webhook request - ID: 20260308194637549572
+2026-03-08 19:46:37,550 - app - INFO - Request 20260308194637549572 - Message skipped
+2026-03-08 19:46:39,000 - app - INFO - Received webhook request - ID: 20260308194639000256
+2026-03-08 19:46:39,001 - app - INFO - Request 20260308194639000256 - Message skipped
+2026-03-08 19:46:54,267 - app - INFO - Received webhook request - ID: 20260308194654267522
+2026-03-08 19:46:54,268 - app - ERROR - Request 20260308194654267522 - Error parsing message: 'isUser'
+2026-03-08 19:46:54,268 - app - ERROR - Request 20260308194654267522 - Unexpected error: 422: Error parsing message: 'isUser'
+2026-03-08 19:46:54,293 - app - INFO - Received webhook request - ID: 20260308194654293698
+2026-03-08 19:46:54,297 - app - INFO - Request 20260308194654293698 - Message skipped
+2026-03-08 19:46:57,466 - app - INFO - Received webhook request - ID: 20260308194657465746
+2026-03-08 19:46:57,466 - app - INFO - Request 20260308194657465746 - Message skipped
+2026-03-08 19:46:57,478 - app - INFO - Received webhook request - ID: 20260308194657478828
+2026-03-08 19:46:57,479 - app - INFO - Request 20260308194657478828 - Message skipped
+2026-03-08 19:46:57,898 - app - INFO - Received webhook request - ID: 20260308194657898103
+2026-03-08 19:46:57,899 - app - ERROR - Request 20260308194657898103 - Error parsing message: 'isUser'
+2026-03-08 19:46:57,899 - app - ERROR - Request 20260308194657898103 - Unexpected error: 422: Error parsing message: 'isUser'
+2026-03-08 19:46:57,929 - app - INFO - Received webhook request - ID: 20260308194657929583
+2026-03-08 19:46:57,930 - app - INFO - Request 20260308194657929583 - Message skipped
+2026-03-08 19:46:58,210 - app - INFO - Received webhook request - ID: 20260308194658210445
+2026-03-08 19:46:58,210 - app - INFO - Request 20260308194658210445 - Message skipped
+2026-03-08 19:46:58,245 - app - INFO - Received webhook request - ID: 20260308194658245362
+2026-03-08 19:46:58,245 - app - INFO - Request 20260308194658245362 - Message skipped
+2026-03-08 19:47:04,712 - app - INFO - Received webhook request - ID: 20260308194704712524
+2026-03-08 19:47:04,713 - app - INFO - Request 20260308194704712524 - Message skipped
+2026-03-08 19:47:05,567 - app - INFO - Received webhook request - ID: 20260308194705567912
+2026-03-08 19:47:05,568 - app - ERROR - Request 20260308194705567912 - Error parsing message: 'isUser'
+2026-03-08 19:47:05,569 - app - ERROR - Request 20260308194705567912 - Unexpected error: 422: Error parsing message: 'isUser'
+2026-03-08 19:47:05,594 - app - INFO - Received webhook request - ID: 20260308194705593946
+2026-03-08 19:47:05,594 - app - INFO - Request 20260308194705593946 - Message skipped
+2026-03-08 19:47:45,524 - app - INFO - Received webhook request - ID: 20260308194745524165
+2026-03-08 19:47:45,524 - app - INFO - Request 20260308194745524165 - Message skipped
+2026-03-08 19:48:41,336 - app - INFO - Received webhook request - ID: 20260308194841336757
+2026-03-08 19:48:41,337 - app - INFO - Request 20260308194841336757 - Message skipped
+2026-03-08 19:49:40,874 - app - INFO - Received webhook request - ID: 20260308194940874006
+2026-03-08 19:49:40,875 - app - INFO - Request 20260308194940874006 - Message skipped
+2026-03-08 19:49:48,762 - app - INFO - Received webhook request - ID: 20260308194948762137
+2026-03-08 19:49:48,766 - app - ERROR - Request 20260308194948762137 - Error parsing message: 'isUser'
+2026-03-08 19:49:48,766 - app - ERROR - Request 20260308194948762137 - Unexpected error: 422: Error parsing message: 'isUser'
+2026-03-08 19:49:48,786 - app - INFO - Received webhook request - ID: 20260308194948786442
+2026-03-08 19:49:48,786 - app - INFO - Request 20260308194948786442 - Message skipped
+2026-03-08 19:49:54,016 - app - INFO - Received webhook request - ID: 20260308194954016044
+2026-03-08 19:49:54,017 - app - INFO - Request 20260308194954016044 - Message skipped
+2026-03-08 19:49:55,492 - app - INFO - Received webhook request - ID: 20260308194955492605
+2026-03-08 19:49:55,493 - app - INFO - Request 20260308194955492605 - Message skipped
+2026-03-08 19:49:56,706 - app - INFO - Received webhook request - ID: 20260308194956706062
+2026-03-08 19:49:56,707 - app - INFO - Request 20260308194956706062 - Message skipped
+2026-03-08 19:49:58,371 - app - INFO - Received webhook request - ID: 20260308194958370911
+2026-03-08 19:49:58,371 - app - INFO - Request 20260308194958370911 - Message skipped
+2026-03-08 19:50:13,717 - app - INFO - Received webhook request - ID: 20260308195013676321
+2026-03-08 19:50:13,720 - app - INFO - Request 20260308195013676321 - Message skipped
+2026-03-08 19:50:14,259 - app - INFO - Received webhook request - ID: 20260308195014259756
+2026-03-08 19:50:14,264 - app - INFO - Request 20260308195014259756 - Message skipped
+2026-03-08 19:50:41,988 - app - INFO - Received webhook request - ID: 20260308195041988333
+2026-03-08 19:50:41,989 - app - INFO - Request 20260308195041988333 - Message skipped
+2026-03-08 19:50:46,006 - app - INFO - Received webhook request - ID: 20260308195046006729
+2026-03-08 19:50:46,007 - app - INFO - Request 20260308195046006729 - Message skipped
+2026-03-08 19:50:48,941 - app - INFO - Received webhook request - ID: 20260308195048941722
+2026-03-08 19:50:48,944 - app - INFO - Request 20260308195048941722 - Message skipped
+2026-03-08 19:50:53,032 - app - INFO - Received webhook request - ID: 20260308195053032692
+2026-03-08 19:50:53,034 - app - INFO - Request 20260308195053032692 - Message skipped
+2026-03-08 19:50:53,078 - app - INFO - Received webhook request - ID: 20260308195053076821
+2026-03-08 19:50:53,081 - app - INFO - Request 20260308195053076821 - Message skipped
+2026-03-08 19:53:38,824 - app - INFO - Received webhook request - ID: 20260308195338823816
+2026-03-08 19:53:38,837 - app - INFO - Request 20260308195338823816 - Message skipped
+2026-03-08 19:54:02,681 - app - INFO - Received webhook request - ID: 20260308195402681368
+2026-03-08 19:54:02,687 - app - INFO - Request 20260308195402681368 - Message skipped
+2026-03-08 19:57:21,932 - app - INFO - Received webhook request - ID: 20260308195721932356
+2026-03-08 19:57:21,933 - app - INFO - Request 20260308195721932356 - Message skipped
+2026-03-08 20:04:37,889 - app - INFO - Received webhook request - ID: 20260308200437889655
+2026-03-08 20:04:37,951 - app - INFO - Request 20260308200437889655 - Message skipped
