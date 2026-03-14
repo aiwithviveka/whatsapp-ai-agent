@@ -51,8 +51,8 @@ primary_assistant_prompt = ChatPromptTemplate.from_messages(
 )
 
 llm_config = {
-    "provider": "groq",
-    "model": "llama-3.3-70b-specdec",
+    "provider": "openai",
+    "model": "gpt-4o-mini",
     "temperature": 0.6,
 }
 
