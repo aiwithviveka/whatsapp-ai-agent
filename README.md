@@ -13,7 +13,7 @@ to explore your emotions and thoughts."""
 ```
 
 <p align="center">
-  <img src="assets/wpp.png" />
+  <img src="assets/whatsapp_agent.png" />
 </p>
  
 ---
