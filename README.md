@@ -15,7 +15,7 @@ to explore your emotions and thoughts."""
 <p align="center">
   <img src="assets/whatsapp_agent.png" />
 </p>
- 
+
 ---
 
 ## Table of Contents
@@ -242,4 +242,3 @@ For detailed error messages, check the application logs.
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
